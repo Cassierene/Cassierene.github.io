@@ -1,4 +1,5 @@
 site_name: 我的个人博客
+site_url: https://Cassierene.github.io/
 nav:
   - 首页: index.md
   - 第一篇文章: first-post.md
