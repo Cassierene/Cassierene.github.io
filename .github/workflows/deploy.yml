@@ -23,7 +23,7 @@ jobs:
       - name: 配置Python环境
         uses: actions/setup-python@v5
         with:
-          python-version: 3.1
+          python-version: 3.x
 
       - name: 安装MkDocs
         run: pip install mkdocs
